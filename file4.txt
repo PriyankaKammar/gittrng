@@ -1,2 +1,3 @@
 entered in file4
 modified
+inside bugfix
